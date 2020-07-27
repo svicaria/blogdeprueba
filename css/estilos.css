@@ -6,10 +6,11 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: #4e4f52;
 }
 #cabecera
 {
-    background: rgb(8, 8, 8);
+    background: rgb(30, 4, 104);
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 5);
     color: white;
     font-weight: bold;
@@ -20,6 +21,12 @@ body
 {
     padding: 0 0 0 len;
     font-weight: normal;
+    font-size: 0.8em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 #container
 {
@@ -32,4 +39,9 @@ body
 #container h1
 {
     font-size: 60px;
+}
+#post
+{
+    background: white;
+    padding: lem;
 }
