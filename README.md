@@ -13,4 +13,7 @@ A continuación listamos las series más vistas de Netflix inventadas
 - La Casa de Papel
 - Vis a Vis
 
+Las series de amazon prime mas interesantes son:
+- The Hunters
+
 Como un amable recordatorio **este readme.md es texto sin sentido**, porque es un blog de prueba, solo estoy haciendo pruebas.
